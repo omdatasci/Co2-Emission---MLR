@@ -4,6 +4,7 @@ Predicting carbon emission using Multilinear Regression technique.
 This model helps to find out the Co2 emission of vehicle depending upon vehicle type, engine size, fuel type, cylinders etc. 
 
 Project Steps-
+
 1.Download a CSV data file of fuel consumption from https://www.kaggle.com/datasets.This dataset contains various features which have direct effect on Co2 emission.
 
 2.Identified the most relevant features with different techniques(Correlation, Varience) to improve the predictive power of the model.
